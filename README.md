@@ -6,4 +6,5 @@ Lantern is a first-person puzzle game that takes place in a dark dungeon and the
 <li>Download Zip</li>
 *Note*
 Make sure that when the application is ran that the application is in it's orginal folder.
+
 ![Lantern](https://github.com/TaurusDaBull/Lantern-Download/assets/122051465/23fca63c-eb16-4ea7-8ae6-2c3f22fcb2d4)
